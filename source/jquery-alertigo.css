@@ -18,6 +18,7 @@
 	position: fixed;
 	right: 20px;
 	text-align: right;
+	z-index: 2500;
 }
 
 .alertigo {
